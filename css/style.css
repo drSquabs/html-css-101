@@ -1,0 +1,41 @@
+
+section {
+    width: 100%;
+}
+
+p {
+    color: #bcbcbc;
+}
+
+.top-sec {
+    border-top: 5px solid #42f48f;
+    height: 600px;
+}
+
+.soc-media-icons > li{
+    background-color:  rgba(20, 20, 20, 0.2);
+    color: #c4c4c4;
+}
+
+.soc-media-icons > li:hover {
+    background-color: #42f48f;
+    color: #ffffff;
+}
+
+.theme-icon-sec {
+    height: 200px;
+}
+
+.vid-sec {
+    height: 200px;
+    background-color: #cecece;
+}
+
+.contact-sec {
+    height: 200px;
+}
+
+.footer-sec {
+    background-color: #cecece;
+    height: 100px;
+}
